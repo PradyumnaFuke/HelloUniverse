@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Fira Code', sans-serif;
+    background-color: #ffffff;
+}
+
+.hello {
+    color: #ff0064;
+    font-size: 3rem;
+}
