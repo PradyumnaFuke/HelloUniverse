@@ -26,7 +26,7 @@ hw {
     font-size: 10px;
 }
 
-.button {
+button {
     border: none;
     border-radius: 0.25em; 
     background-color: #0050ff;
@@ -35,7 +35,7 @@ hw {
     font-family: arkpixel;
 }
 
-.button:hover {
+button:hover {
   background-color: #ff00aa;
   color: white;
 }
