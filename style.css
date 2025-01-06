@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 90vh;
     margin: 0;
-    font-family: sans-serif;
+    font-family: ArkPixel, sans-serif;
     background-color: #ffffff;
     background-image: radial-gradient(circle, #ff00ff 0px, transparent 0px);
     background-position: center;
