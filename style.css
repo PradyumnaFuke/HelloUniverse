@@ -19,7 +19,6 @@ div {
 }
 
 hw {
-    display: flex;
     font-family: robotomono, arkpixel, sans-serif;
     font-weight: bold;
     color: #0050ff;
