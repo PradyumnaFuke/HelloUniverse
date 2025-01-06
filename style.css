@@ -5,13 +5,13 @@ body {
     height: 100vh;
     margin: 0;
     font-family: 'Fira Code', sans-serif;
-    background-color: #ffffff;
-    background-image: radial-gradient(circle, #00ffff 1px, transparent 1px);
+    background-color: #000000;
+    background-image: radial-gradient(circle, #ff00ff 1px, transparent 1px);
     background-position: center;
     background-size: 30px 30px;
 }
 
 .hello {
     color: #0050ff;
-    font-size: 5rem;
+    font-size: 1rem;
 }
