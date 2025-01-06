@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 90vh;
     margin: 0;
-    font-family: 'Fira Code', sans-serif;
+    font-family: sans-serif;
     background-color: #ffffff;
     background-image: radial-gradient(circle, #ff00ff 0px, transparent 0px);
     background-position: center;
@@ -12,6 +12,11 @@ body {
 }
 
 .hello {
+    font-family: "Ark Pixel";
     color: #0050ff;
     font-size: 1rem;
 }
+@font-face {
+  font-family: "Ark Pixel";
+  src: url("_ark-pixel-10px-monospaced-ja.ttf");
+  }
