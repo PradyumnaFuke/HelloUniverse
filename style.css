@@ -29,14 +29,14 @@ hw {
 button {
     border: none;
     border-radius: 0.25em; 
-    background-color: #0050ff;
+    background-color: #cfcfcf;
     color: #ffffff;
     text-align: center;
     font-family: arkpixel;
 }
 
 button:hover {
-  background-color: #ff00aa;
+  background-color: #0050ff;
   color: white;
 }
 
