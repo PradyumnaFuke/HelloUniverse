@@ -18,7 +18,7 @@ div {
 }
 
 hw {
-    display: block;
+    display: flex;
     font-family: arkpixel, sans-serif;
     color: #0050ff;
     font-size: 10px;
