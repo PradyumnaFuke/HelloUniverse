@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: arkpixel, sans-serif;
     color: #0050ff;
-    font-size: 0.5rem;
+    font-size: 12px;
     background-color: #ffffff;
     background-image: radial-gradient(circle, #ff00ff 0px, transparent 0px);
     background-position: center;
@@ -15,7 +15,7 @@ body {
 div {
     font-family: robotomono, arkpixel, sans-serif;
     color: #000000;
-    font-size: 0.5rem;
+    font-size: 5px;
 }
 @font-face {
   font-family: "arkpixel";
