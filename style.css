@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Fira Code', sans-serif;
     background-color: #ffffff;
-    background-image: radial-gradient(circle, #ff00ff 0px, transparent 1px);
+    background-image: radial-gradient(circle, #ff00ff 0px, transparent 0px);
     background-position: center;
     background-size: 30px 30px;
 }
