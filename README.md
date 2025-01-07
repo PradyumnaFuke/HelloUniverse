@@ -14,6 +14,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Third-Party Assets
 
-This project uses assets from the repository [ark-pixel-font by TakWolf](https://github.com/TakWolf/ark-pixel-font), licensed under the MIT License.  
-
-MIT License Text:
+This project uses assets from the repository [ark-pixel-font by TakWolf](https://github.com/TakWolf/ark-pixel-font), licensed under the MIT License and the [SIL Open Font License Version 1.1](https://scripts.sil.org/OFL).
