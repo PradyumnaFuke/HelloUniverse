@@ -12,10 +12,23 @@ body {
     background-position: center;
     background-size: 30px 30px;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000000;
+  }
+}
+
 div {
     font-family: robotomono, arkpixel, sans-serif;
     color: #000000;
     font-size: 15px;
+}
+
+@media (prefers-color-scheme: dark) {
+  div {
+    color: #ffffff;
+  }
 }
 
 hw {
@@ -34,6 +47,13 @@ button {
     font-family: arkpixel;
 }
 
+@media (prefers-color-scheme: dark) {
+  button {
+    background-color: #ffffff;
+    color: #000000;
+  }
+}
+
 button:hover {
   background-color: #0050ff;
   color: white;
@@ -43,6 +63,7 @@ button:hover {
   font-family: "arkpixel";
   src: url("arkpixel.ttf");
   }
+
 @font-face {
   font-family: "robotomono";
   src: url("robotomono.ttf");
