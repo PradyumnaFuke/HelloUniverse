@@ -45,7 +45,7 @@ button {
     color: #ffffff;
     text-align: center;
     font-family: arkpixel;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 @media (prefers-color-scheme: dark) {
