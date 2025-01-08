@@ -16,4 +16,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 This project uses assets from the repository [ark-pixel-font by TakWolf](https://github.com/TakWolf/ark-pixel-font), licensed under the [MIT License](https://github.com/TakWolf/ark-pixel-font/blob/master/LICENSE-MIT) and the [SIL Open Font License Version 1.1](https://github.com/TakWolf/ark-pixel-font/blob/master/LICENSE-OFL).
 
-This project uses the **Roboto Mono** font, which is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). You can view the full license text in the [LICENSE](LICENSE) file.
+This project uses the **Roboto Mono** font, which is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
