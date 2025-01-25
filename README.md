@@ -1,8 +1,7 @@
 ### About
 
 This is just a little fun project I created based on the theme of human spirit of curiosity and exploration.
-You can view it here:
-[https://pradyumnafuke.github.io/HelloUniverse/](pradyumnafuke.github.io/HelloUniverse/)
+You can view it [here](https://pradyumnafuke.github.io/HelloUniverse/)
 
 ### Audio Attribution
 
