@@ -4,9 +4,9 @@ body {
     align-items: center;
     height: 90vh;
     margin: 0;
-    color: #2070ff;
+    color: #0050ff;
     font-size: 15px;
-    background-color: #fffff0;
+    background-color: #fffff6;
     background-image: radial-gradient(circle, #ff00ff 0px, transparent 0px);
     background-position: center;
     background-size: 30px 30px;
@@ -20,7 +20,7 @@ body {
 
 div {
     font-family: robotomono, arkpixel, sans-serif;
-    color: #000000;
+    color: #cfcfcf;
     font-size: 15px;
 }
 
@@ -33,7 +33,7 @@ div {
 hw {
     font-family: robotomono, arkpixel, sans-serif;
     font-weight: bold;
-    color: #0050ff;
+    color: #2070ff;
     font-size: 15px;
 }
 
