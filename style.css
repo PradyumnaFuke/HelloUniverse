@@ -69,3 +69,18 @@ button:hover {
   font-family: "robotomono";
   src: url("robotomono.ttf");
 }
+
+@font-face {
+  font-family: "open";
+  src: url("OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "ebgaramond";
+  src: url("ebgaramond.ttf");
+}
+
+@font-face {
+  font-family: "noto";
+  src: url("NotoSans-Regular.ttf");
+}
